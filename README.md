@@ -5,7 +5,7 @@ This repository provides a structure for solid ionic projects. It provides funct
 To run this project just clone it and run: `npm install`
 
 ```bash
-ionic start ionic-super-starter danielsogl/super
+ionic start myapp https://github.com/ionic-toolbox/ionic3-starter-super
 ```
 
 ## Usage
